@@ -1,0 +1,21 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    background-color: #825ea2;
+}
+
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas{
+    background-color: #605e5e;
+    position: relative;
+}
+
+/*h1{
+    position: absolute;
+    z-index: 99;
+}*/
